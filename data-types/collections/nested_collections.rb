@@ -13,25 +13,26 @@ class NestesdCollectionsTest < Minitest::Test
   end
 
   def test_2
-    skip
+#    skip
     coordinates = [[2,5],[87,2],[56,39],[3,46]]
     # Using the coordinates variable defined above
     # Retrive the value 39
-    thirty_nine = _________
+    thirty_nine = coordinates[2][1]
     assert_equal 39, thirty_nine
   end
 
   def test_3
-    skip
+#    skip
     coordinates = [[2,5],[87,2],[56,39],[3,46]]
     # Using the coordinates variable defined above
     # set the last coordinates to [6, 55]
-    _________
+    coordinates[coordinates.length - 1].replace([6, 55])
 
     expected = [[2,5],[87,2],[56,39],[6,55]]
     assert_equal expected, coordinates
   end
 
+# START HERE WHEN NEXT WORKING 
   def test_4
     skip
     coordinates = [[2,5],[87,2],[56,39],[3,46]]
