@@ -111,22 +111,22 @@ This repository of exercises is one of the best tools you've got to learn Ruby. 
 
 * Week 1
   * data-types
-    * strings (start here!!!) [video walk-through](https://youtu.be/aeAkLxr5diE)
-    * ints_and_floats
-    * collections/arrays [video walk-through](https://youtu.be/RUnd1Uu0AyE)
+    ~~* strings (start here!!!) [video walk-through](https://youtu.be/aeAkLxr5diE)~~
+    ~~* ints_and_floats~~
+    ~~* collections/arrays [video walk-through](https://youtu.be/RUnd1Uu0AyE)~~
   * initialize
-    * aardvark
-    * beaver
-    * cat
-    * dog
-    * eel
-    * ferret
-    * groundhog
-    * horse
+    ~~* aardvark~~
+    ~~* beaver~~
+    ~~* cat~~
+    ~~* dog~~
+    ~~* eel~~
+    ~~* ferret~~
+    ~~* groundhog~~
+    ~~* horse~~
   * mythical-creatures
-    * Unicorn [video walk-through](https://youtu.be/mocwGsu41yw)
-    * Vampire
-    * Dragon [video walk-through](https://youtu.be/NIPerY-xuCk)
+    ~~* Unicorn [video walk-through](https://youtu.be/mocwGsu41yw)~~
+    ~~* Vampire
+    ~~* Dragon [video walk-through](https://youtu.be/NIPerY-xuCk)~~
   * enumerables/exercises
     * find_pattern_test
     * find_test
