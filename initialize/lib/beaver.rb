@@ -1,4 +1,4 @@
-class Aardvark
+class Beaver
   attr_reader :name
 
   def initialize(name)

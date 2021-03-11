@@ -1,7 +1,7 @@
-class Aardvark
+class Quail
   attr_reader :name
 
   def initialize(name)
-    @name = "#{name} the Beaver"
+    @name = name.capitalize
   end
 end
