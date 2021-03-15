@@ -128,12 +128,12 @@ This repository of exercises is one of the best tools you've got to learn Ruby. 
     * ~~Vampire~~
     * ~~Dragon [video walk-through](https://youtu.be/NIPerY-xuCk)~~
   * enumerables/exercises
-    * find_pattern_test
-    * find_test
-    * map_pattern_test
-    * map_test
-    * select_pattern_test
-    * select_test
+    * ~~find_pattern_test~~
+    * ~~find_test~~
+    * ~~map_pattern_test~~
+    * ~~map_test~~
+    * ~~select_pattern_test~~
+    * ~~select_test~~
 
 * Week 2
   * data-types/collections/hashes.rb
